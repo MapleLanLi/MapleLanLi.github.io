@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/MapleLanLi/MapleLanLi.github.io.git/"/>
-  <updated>2017-08-23T13:43:13.223Z</updated>
+  <updated>2017-08-23T14:11:30.539Z</updated>
   <id>https://github.com/MapleLanLi/MapleLanLi.github.io.git/</id>
   
   <author>
@@ -20,14 +20,13 @@
     <link href="https://github.com/MapleLanLi/MapleLanLi.github.io.git/2017/08/22/hello-world/"/>
     <id>https://github.com/MapleLanLi/MapleLanLi.github.io.git/2017/08/22/hello-world/</id>
     <published>2017-08-21T23:29:23.582Z</published>
-    <updated>2017-08-23T13:43:13.223Z</updated>
+    <updated>2017-08-23T14:11:30.539Z</updated>
     
     <content type="html"><![CDATA[<p>博客放在GitHub免费空间上，域名也是GitHub免费提供，也想弄一个的可以看一看。</p>
 <a id="more"></a>
 <h1 id="博客搭建教程"><a href="#博客搭建教程" class="headerlink" title="博客搭建教程"></a>博客搭建教程</h1><h3 id="我是看的别人的教程，写的很好，一步一步照着来就行，下面是链接"><a href="#我是看的别人的教程，写的很好，一步一步照着来就行，下面是链接" class="headerlink" title="我是看的别人的教程，写的很好，一步一步照着来就行，下面是链接"></a>我是看的别人的教程，写的很好，一步一步照着来就行，下面是链接</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">http://blog.liuxianan.com/build-blog-website-by-hexo-github.html</div></pre></td></tr></table></figure>
 <p>More info: 这是基于Windows下的搭建，建议放到虚拟机中。Linux请自行搜索</p>
-<h1 id="MarkDown语法说明"><a href="#MarkDown语法说明" class="headerlink" title="MarkDown语法说明"></a>MarkDown语法说明</h1><h2 id="宗旨"><a href="#宗旨" class="headerlink" title="宗旨"></a>宗旨</h2><h3 id="目标是实现【易读易写】"><a href="#目标是实现【易读易写】" class="headerlink" title="目标是实现【易读易写】"></a>目标是实现【易读易写】</h3><h4 id="兼容HTML"><a href="#兼容HTML" class="headerlink" title="兼容HTML"></a>兼容HTML</h4><h5 id="特殊字符自动转换：-lt-和-amp-等，自动转换成实体标签"><a href="#特殊字符自动转换：-lt-和-amp-等，自动转换成实体标签" class="headerlink" title="特殊字符自动转换：&lt;和&amp;等，自动转换成实体标签"></a>特殊字符自动转换：&lt;和&amp;等，自动转换成实体标签</h5><h6 id="一个段落的前后要有一个以上的空行"><a href="#一个段落的前后要有一个以上的空行" class="headerlink" title="一个段落的前后要有一个以上的空行"></a>一个段落的前后要有一个以上的空行</h6><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">个人感觉，一个<span class="comment">#可以当大标题，四个#用来当副标题，六个#用来当正文内容，再好不过</span></div><div class="line">除此之外，代码区的规格如下：</div><div class="line">``` bash</div></pre></td></tr></table></figure>
-<p>```</p>
+<h1 id="MarkDown语法说明"><a href="#MarkDown语法说明" class="headerlink" title="MarkDown语法说明"></a>MarkDown语法说明</h1><h2 id="宗旨"><a href="#宗旨" class="headerlink" title="宗旨"></a>宗旨</h2><h3 id="目标是实现【易读易写】"><a href="#目标是实现【易读易写】" class="headerlink" title="目标是实现【易读易写】"></a>目标是实现【易读易写】</h3><h4 id="兼容HTML"><a href="#兼容HTML" class="headerlink" title="兼容HTML"></a>兼容HTML</h4><h5 id="特殊字符自动转换：-lt-和-amp-等，自动转换成实体标签"><a href="#特殊字符自动转换：-lt-和-amp-等，自动转换成实体标签" class="headerlink" title="特殊字符自动转换：&lt;和&amp;等，自动转换成实体标签"></a>特殊字符自动转换：&lt;和&amp;等，自动转换成实体标签</h5><h6 id="一个段落的前后要有一个以上的空行"><a href="#一个段落的前后要有一个以上的空行" class="headerlink" title="一个段落的前后要有一个以上的空行"></a>一个段落的前后要有一个以上的空行</h6><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">个人感觉，一个<span class="comment">#可以当大标题，四个#用来当副标题，六个#用来当正文内容，再好不过</span></div><div class="line">除此之外，代码区的规格如下：</div><div class="line">``` bash   </div><div class="line">内容   </div><div class="line">``（此处是三个反引号）</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
@@ -36,6 +35,10 @@
     
     </summary>
     
+      <category term="杂" scheme="https://github.com/MapleLanLi/MapleLanLi.github.io.git/categories/%E6%9D%82/"/>
+    
+    
+      <category term="博客" scheme="https://github.com/MapleLanLi/MapleLanLi.github.io.git/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
